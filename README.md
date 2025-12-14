@@ -1,10 +1,8 @@
 # Analyse d'Audience et des Réactions pour un Programme Télé : Cas de Squid Game
 
 ## Contexte
-Projet réalisé par :  
-- Alexandra ANVOH  
-- Jean-Baptiste KOFFI  
-- Prosper KOUASSI  
+Projet académique réalisé par :  Jean-Baptiste KOFFI  
+  
 
 L’objectif est d’analyser l’audience et les réactions autour de la série *Squid Game* à partir de commentaires et notes d’internautes (source : [AlloCiné](https://www.allocine.fr/series/ficheserie-29898/critiques/)). Le projet mobilise le Traitement Automatique du Langage Naturel (TALN) pour extraire des insights sur le sentiment et les thèmes dominants.
 
